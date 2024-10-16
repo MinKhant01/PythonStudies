@@ -24,3 +24,5 @@ def greet():
     print("Hello!")
 
 greet()
+
+# try it with three decorators
