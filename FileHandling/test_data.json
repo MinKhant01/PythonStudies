@@ -1,0 +1,28 @@
+[
+    {
+        "name": "John",
+        "age": 30,
+        "married": true,
+        "address": {
+            "number": 123,
+            "address": "Main St",
+            "city": "Manteca",
+            "state": "CA",
+            "country": "United States of America (the)",
+            "zip": 12345
+        }
+    },
+    {
+        "name": "Nancy",
+        "age": 78,
+        "married": false,
+        "address": {
+            "number": 987,
+            "address": "Lowell St",
+            "city": "Lathrop",
+            "state": "CA",
+            "country": "United States of America (the)",
+            "zip": 54253
+        }
+    }
+]
